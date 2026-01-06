@@ -1,0 +1,73 @@
+# Privacy Policy - Doped YouTube Extension
+
+**Last Updated:** January 2025
+
+## TL;DR
+This extension does NOT collect, store, or transmit any of your personal data. Everything runs locally in your browser.
+
+## 1. Information We Do NOT Collect
+
+This extension does NOT collect, store, or transmit:
+- Your browsing history
+- Your personal information
+- Your YouTube viewing habits
+- Any data about videos you watch
+- Your IP address or location
+- Any authentication tokens or credentials
+
+## 2. Data Storage
+
+The extension stores the following data **locally on your device only** using Chrome's storage API:
+- **Settings:** Your preferences (e.g., enable/disable features, color preferences)
+- **Statistics:** Local counters (ads blocked, videos watched) - stored only on your device
+
+**This data never leaves your computer.**
+
+## 3. Permissions Explanation
+
+The extension requires the following permissions to function:
+- **storage:** To save your settings and statistics locally
+- **declarativeNetRequest:** To block ads and unwanted content on YouTube
+- **tabs:** To detect when you're on YouTube pages and apply enhancements
+- **scripting:** To inject features like PiP, speed controls, and audio mode
+- **Host permissions (*.youtube.com, *.googlevideo.com):** To modify YouTube pages and video streams
+
+## 4. Third-Party Services
+
+The extension may connect to:
+- **returnyoutubedislikeapi.com:** To fetch dislike counts for YouTube videos (if enabled)
+
+This is an optional feature that can be disabled in settings. No personal data is sent to this API.
+
+## 5. Ad Blocking
+
+The extension blocks ads on YouTube using local rules. No data about blocked ads is sent anywhere. All processing happens locally in your browser.
+
+## 6. Data Sharing
+
+**We do NOT share any data with third parties because we don't collect any data in the first place.**
+
+## 7. Children's Privacy
+
+This extension does not knowingly collect any information from children under 13 years of age. Since we don't collect any data at all, the extension is safe for all ages.
+
+## 8. Changes to Privacy Policy
+
+We may update this privacy policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date.
+
+## 9. Open Source Transparency
+
+This extension's code is transparent and can be reviewed. All functionality is contained within the extension files with no external code execution or data collection.
+
+## 10. Contact
+
+If you have questions about this privacy policy or the extension's functionality, you can review the extension's code or contact us through the Chrome Web Store listing.
+
+## Summary
+
+**Your privacy is 100% protected.** This extension:
+- ✅ Does NOT collect any personal data
+- ✅ Does NOT track your browsing
+- ✅ Does NOT send data to external servers
+- ✅ Stores settings only locally on your device
+- ✅ Works entirely offline (except for optional dislike API)
